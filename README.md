@@ -1,5 +1,5 @@
 ### Hi there 👋, I am Jhon 👨‍💻
-🔭 I am currently working at Analytia as Programmer Python.
+🔭 I currently work at Analytia as a "Python Programmer"
 <!--
 **iamcantaro/iamcantaro** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
