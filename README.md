@@ -1,8 +1,5 @@
-### Hi there, I am Jhon 👋
-<div>
-  <h1>Jhon Cantaro</h1>
-  <h3>www.cantaro.dev</h3>
-</div>
+### Hi there 👋, I am Jhon 👨‍💻
+🔭 I am currently working at Analytia as Programmer Python.
 <!--
 **iamcantaro/iamcantaro** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
